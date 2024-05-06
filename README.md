@@ -18,9 +18,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 ## Program
 
 ```
-Thanjiyappan k
-212222240108
-
+Reshma.C
+212223040168
 import socket
 
 def send_request(host, port, request):
