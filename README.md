@@ -16,16 +16,11 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 6.Stop the program
 <BR>
 ## Program
-
-```
-Reshma.C
-212223040168
 ![image](https://github.com/RESHMA22C/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/147474426/c7fc56b8-a86a-4274-9164-43d299cd5153)
 
 
 
 
-```
 ## OUTPUT
 
 
